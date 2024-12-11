@@ -3,5 +3,3 @@ description: Data Science and Business Engineering at ITAM
 google_analytics:
 theme: jekyll-theme-cayman
 markdown: kramdown
-exclude:
-  - README.md
